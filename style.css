@@ -1,6 +1,7 @@
 body {
   background-image: url(images/background.jpg);
   background-position: center;
+	width: 100%;
   background-repeat: no-repeat;
   background-color: #AFEEEE;
 }
@@ -13,18 +14,18 @@ h1 {
   font-family: 'Oxygen', sans-serif;
 }
 
-#mercury {
+#mercurypic {
   display: block;
-  padding: 20px 0 0 907px;
+  padding: 20px 0 0 900px;
   position: absolute;
   float: left;
-  width: 220px;
+  width: 250px;
 	
 }
 
-#earth {
+#earthpic {
   display: block;
-  padding: 20px 0 0 380px;
+  padding: 20px 0 0 385px;
   position: absolute;
   float: left;
   width: 200px;
