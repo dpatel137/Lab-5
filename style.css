@@ -1,0 +1,67 @@
+body {
+  background-image: url(images/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #AFEEEE;
+}
+
+h1 {
+  text-shadow: 2px 3px #20B2AA;
+  letter-spacing: 4px;
+  color: #F0F8FF;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#mercury {
+  display: block;
+  padding: 20px 0 0 907px;
+  position: absolute;
+  float: left;
+  width: 220px;
+	
+}
+
+#earth {
+  display: block;
+  padding: 20px 0 0 380px;
+  position: absolute;
+  float: left;
+  width: 220px;
+}
+
+#planettable {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 50%;
+  height: 360px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#planetheading {
+  padding-top: 1px;
+  background-color: #F0FFF0;
+  color: #46CDAA;
+  border: 1px solid black;	
+  font-family: 'B612', Arial,sans-serif;
+  
+}
+
+#description th {
+  padding: 10px;
+  background-color: #F0FFF0;
+  color: #46CDAA;
+  font-family: 'B612', Arial,sans-serif;
+  border: 1px solid black;	
+  
+}
+
+#description td {
+  padding: 10px;
+  background-color: #46CDAA;
+  color: #FFFFFF;
+  font-family: 'Nunito', sans-serif;
+  border: 1px solid black;
+}
